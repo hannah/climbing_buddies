@@ -3,4 +3,11 @@ This app is designed to allow people to find climbing partners at nearby gyms an
 
 TO DO:
 
-omniauth authentication
+* omniauth authentication
+ * Twitter
+ * Facebook
+ * devise login
+* gym importation with yelp api
+* ability to add new climbing sites
+* board for wanted climbing partners on each site
+
