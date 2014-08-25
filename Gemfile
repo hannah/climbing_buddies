@@ -15,6 +15,8 @@ gem 'devise'
 gem 'omniauth'
 gem 'foundation-rails'
 gem 'simple_form'
+gem 'rspec-rails'
+
 group :production, :development do
   gem 'factory_girl_rails'
   gem 'quiet_assets'
