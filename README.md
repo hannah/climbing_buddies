@@ -11,5 +11,6 @@ TO DO:
  * devise login
 * gym importation with yelp api
 * ability to add new climbing sites
+  *geolocation for each 
 * board for wanted climbing partners on each site
 
